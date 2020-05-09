@@ -14,10 +14,11 @@ Once completed, activate the pipenv shell:
 pipenv shell
 ```
 
-And open the jupyter lab by:
+And run jupyter lab project:
 ```
 pipenv run jupyter lab
 ```
+
 There is a all-requirements.txt provided.
 Incase you experience any problem with the latest version of dependencies,
 replace requirements.txt with this file.
